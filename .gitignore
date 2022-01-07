@@ -10,6 +10,10 @@ deploy-options.json
 
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
+**/lwc/.eslintrc.json
+
+# Aura VSCode autocomplete
+**/aura/.eslintrc.json
 
 # LWC Jest coverage reports
 coverage/
